@@ -22,3 +22,6 @@ Now fill this keys in environments
 - TEST_TO_EMAIL_ADDRESS -> Your verified test email
 - AWS_ACCESS_KEY_ID -> Your IAM Access Key ID
 - AWS_SECRET_ACCESS_KEY -> Your Secret Access KEY 
+
+## Usage
+To send email just go /send route. This route sends an mail to your environment email address. 
